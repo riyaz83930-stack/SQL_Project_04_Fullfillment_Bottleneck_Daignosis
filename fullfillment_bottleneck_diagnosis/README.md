@@ -21,12 +21,9 @@ This project uses SQL and Python to investigate where orders slow down between p
 
 ```text
 fulfillment_bottleneck_phase11/
-├── fulfillment_analysis.py
-├── requirements.txt
-├── .env.example
+├── python_automation.py
 ├── README.md
 ├── findings_report.md
-├── linkedin_post.md
 ├── sql/
 │   ├── 01_surface_and_referential_integrity_audit.sql
 │   ├── 02_date_logic_audit.sql
@@ -49,19 +46,14 @@ fulfillment_bottleneck_phase11/
 
 Requires Python 3.10+ and MySQL 8+ (the script uses CTEs and window functions).
 
-1. Create/activate a virtual environment.
-2. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. Set the database connection environment variables. Defaults are `localhost:3306`, database `fulfillment_diag`, user `root`, and blank password. For example in PowerShell:
 
    ```powershell
    $env:DB_HOST="localhost"
    $env:DB_PORT="3306"
-   $env:DB_NAME="fulfillment_diag"
+   $env:DB_NAME="project_05_fulfillment_bottleneck_diaganosis"
    $env:DB_USER="root"
    $env:DB_PASSWORD="your_password"
    python fulfillment_analysis.py
@@ -72,7 +64,7 @@ Requires Python 3.10+ and MySQL 8+ (the script uses CTEs and window functions).
    ```bash
    export DB_HOST=localhost
    export DB_PORT=3306
-   export DB_NAME=fulfillment_diag
+   export DB_NAME=project_05_fulfillment_bottleneck_diaganosis
    export DB_USER=root
    export DB_PASSWORD='your_password'
    python fulfillment_analysis.py
