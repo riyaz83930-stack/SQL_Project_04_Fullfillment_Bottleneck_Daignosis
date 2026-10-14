@@ -1,0 +1,10 @@
+original_value,normalized_value,row_count
+late,late,2268
+on_time,on_time,319
+pending,pending,77
+ late,late,53
+late ,late,48
+ on_time,on_time,8
+on_time ,on_time,5
+pending ,pending,2
+ pending,pending,1

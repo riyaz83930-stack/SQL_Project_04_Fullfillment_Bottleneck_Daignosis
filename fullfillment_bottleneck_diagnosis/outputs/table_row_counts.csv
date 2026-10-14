@@ -1,0 +1,7 @@
+table_name,total_rows
+warehouses,8
+carriers,6
+customers,200
+orders,3000
+shipments,2781
+order_stage_events,20078

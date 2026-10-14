@@ -1,0 +1,9 @@
+priority,delivery_status,orders
+express,,58
+express,late,729
+express,on_time,60
+express,pending,23
+standard,,172
+standard,late,1640
+standard,on_time,272
+standard,pending,57

@@ -1,0 +1,22 @@
+original_value,normalized_value,row_count
+placed,placed,2928
+payment_verified,payment_verified,2866
+picked,picked,2800
+packed,packed,2785
+handed_to_carrier,handed_to_carrier,2719
+in_transit,in_transit,2660
+delivered,delivered,2659
+payment_verified ,payment_verified,57
+ handed_to_carrier,handed_to_carrier,52
+ in_transit,in_transit,52
+handed_to_carrier ,handed_to_carrier,51
+in_transit ,in_transit,50
+delivered ,delivered,50
+ placed,placed,49
+ picked,picked,48
+placed ,placed,48
+ packed,packed,47
+ delivered,delivered,46
+packed ,packed,42
+picked ,picked,35
+ payment_verified,payment_verified,34

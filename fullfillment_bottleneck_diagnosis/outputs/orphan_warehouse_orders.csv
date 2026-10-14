@@ -1,0 +1,29 @@
+order_id,customer_id,warehouse_id,order_placed_at,priority,order_value,order_status
+93,76,25,2026-05-20 12:11:52,standard,12500,delivered
+135,49,21,2025-11-01 23:45:27,express,8900,delivered
+311,80,21,2026-09-30 06:12:50, standard,18000,delivered
+589,137,24,2025-11-14 03:10:57,express,24000,delivered
+591,178,28,2026-02-22 18:19:49,standard,24000,delivered
+696,195,26,2026-01-11 17:03:44,standard,185000,delivered
+745,97,21,2026-07-19 23:43:23,standard,4500, delivered
+886,66,22,2026-09-19 01:54:18,standard,36000,in_progress
+906,158,26,2026-07-08 05:45:25,express,24000,delivered
+983,180,24,2026-07-25 13:07:27,standard,52000,delivered
+990,37,26,2026-04-25 13:39:28,express,36000,DELIVERED
+1048,44,24,2026-04-25 04:26:12,standard,120000,delivered
+1099,125,26,2026-02-03 19:37:50,standard,78000,delivered
+1101,193,22,2026-02-14 23:53:13,standard,185000,delivered
+1294,107,22,2026-02-23 08:00:41,standard,52000,delivered
+1605,37,26,2026-06-27 18:21:04,standard,4500, delivered
+1658,200,20,2026-09-30 19:41:55,standard,18000,delivered
+1676,3,26,2026-06-06 21:48:40,express,4500,delivered
+1781,77,25,2026-02-03 20:24:32,standard,36000,delivered
+1844,63,27,2026-04-09 02:22:34,standard,185000,delivered
+1953,123,21,2026-01-19 06:19:46,express,185000,delivered
+1960,170,21,2026-03-18 18:51:14,standard,120000,delivered
+2039,80,26,2026-05-28 18:14:03,standard,185000,delivered
+2196,184,21,2025-12-10 19:21:13,standard,36000,delivered
+2459,43,28,2026-10-05 03:12:44,standard,-500,delivered
+2535,99,25,2026-04-21 10:13:53,standard,120000,delivered
+2901,87,27,2026-05-18 08:01:27,standard,8900,delivered
+2962,91,23,2026-06-29 01:58:32,standard,4500,delivered

@@ -1,0 +1,3 @@
+metric,orders,order_value
+late_orders,2369,130644500.0
+stuck_orders,242,12399000.0

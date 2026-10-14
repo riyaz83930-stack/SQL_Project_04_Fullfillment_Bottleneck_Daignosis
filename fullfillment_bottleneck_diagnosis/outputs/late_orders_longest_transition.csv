@@ -1,0 +1,6 @@
+transition,orders,avg_hours
+handed_to_carrier -to- in_transit,2006,80.83482084
+packed -to- handed_to_carrier,306,63.71732026
+in_transit -to- delivered,51,93.39934314
+payment_verified -to- picked,4,32.254175
+picked -to- handed_to_carrier,2,59.19165
