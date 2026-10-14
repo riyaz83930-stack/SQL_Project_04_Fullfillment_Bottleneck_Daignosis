@@ -48,7 +48,7 @@ Requires Python 3.10+ and MySQL 8+ (the script uses CTEs and window functions).
 
 
 
-3. Set the database connection environment variables. Defaults are `localhost:3306`, database `fulfillment_diag`, user `root`, and blank password. For example in PowerShell:
+3. Set the database connection environment variables. Defaults are `localhost:3306`, database `project_05_fulfillment_bottleneck_diaganosis`, user `root`, and blank password. For example in PowerShell:
 
    ```powershell
    $env:DB_HOST="localhost"
